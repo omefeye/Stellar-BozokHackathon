@@ -1,0 +1,1 @@
+C:\Users\dnsyl\Documents\New\ Folder\ (3)\Stellar-BozokHackathon\GreenShopping\target\wasm32-unknown-unknown\release\GreenShopping.wasm: C:\Users\dnsyl\Documents\New\ Folder\ (3)\Stellar-BozokHackathon\GreenShopping\src\main.rs
