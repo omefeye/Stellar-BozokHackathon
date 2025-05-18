@@ -1,0 +1,12 @@
+cargo build --target wasm32-unknown-unknown --release
+
+stellar keys generate --global alice --network testnet --fund
+
+stellar contract deploy --wasm target/wasm32-unknown-unknown/release/green_shopping.wasm --source admin --network testnet --alias token
+
+stellar contract invoke --id token --source admin --network testnet -- mint --to $(stellar keys address admin) --amount 10000000
+
+stellar contract invoke --id token --source admin --network testnet -- balance --id $(stellar keys address admin)
+
+stellar contract invoke --id token --source admin --network testnet -- transfer --from $(stellar keys address admin) --to $(stellar keys address GBW6T52EGBFVIL7N5WGDPHMVPJ5OPPVXHDL2WEW2TP52MV5DWLQC7LQT) --amount 1000000
+
