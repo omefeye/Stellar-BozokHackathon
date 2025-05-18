@@ -29,7 +29,7 @@ https://stellar.expert/explorer/testnet/contract/CCXWG5NIXW67Y44PL5PQ7FF67R74VGP
 ---
 
 ## Ekran kayıtları
-![202505181226](https://github.com/user-attachments/assets/dd19af4f-944e-48b8-8271-92d348124e62)
+![202505181226(2)](https://github.com/user-attachments/assets/5088dc8e-b2fa-448d-ab75-92debc0e3fd3)
 
-![202505181233](https://github.com/user-attachments/assets/17bcc2c6-1453-41b5-9a00-d9839778a3a3)
 
+![202505181233(1)](https://github.com/user-attachments/assets/acda94e2-79ca-46c6-994a-802c3fed75cc)
