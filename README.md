@@ -3,6 +3,9 @@
 
 Green Shopping, çevre dostu ürünlerin şeffaf, güvenilir ve merkeziyetsiz bir ortamda alınıp satılabildiği blockchain tabanlı bir alışveriş platformudur. Bu proje, Stellar ağı üzerinde geliştirilen akıllı sözleşmeler ve kendi token'ı olan **GreenShoppingToken (GST)** ile çalışmaktadır.
 
+
+https://stellar.expert/explorer/testnet/contract/CCXWG5NIXW67Y44PL5PQ7FF67R74VGPR4ZCWBOMH4JADZYRNXBNXHH3P
+
 ## 🌟 Öne Çıkan Özellikler
 
 - ♻️ Çevre dostu ürün kataloğu
@@ -23,8 +26,6 @@ React, Stellar Soroban, Rust, Stellar SDK, Freighter
 ## 🖥️ Frontend Web Uygulaması
 
 Green Shopping’in kullanıcı arayüzü modern, responsive ve kullanımı kolay olacak şekilde tasarlanmıştır.
-
-https://stellar.expert/explorer/testnet/contract/CCXWG5NIXW67Y44PL5PQ7FF67R74VGPR4ZCWBOMH4JADZYRNXBNXHH3P
 
 ---
 
